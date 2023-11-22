@@ -4,6 +4,6 @@ Integrantes:
 
 Antonela Duckwen
 Lucas Fasanella
-Ricardina Zabala
+Ricardina Zabala Edad: 18, Ciudad de recidencia: Lobos
 Juan Samek
 Dario Benitez
