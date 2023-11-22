@@ -2,8 +2,8 @@ Movies
 
 Integrantes:
 
-Antonela Duckwen
-Lucas Fasanella
+Antonela Duckwen. Edad:28. Ciudad:Moreno
+lucas Fasanella
 Ricardina Zabala
 Juan Samek
 Dario Benitez
